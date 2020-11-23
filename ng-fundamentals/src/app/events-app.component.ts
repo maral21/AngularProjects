@@ -5,4 +5,5 @@ import { Component } from '@angular/core';
   template: '<events-list></events-list>',
 })
 export class EventsAppComponent {
+
 }
